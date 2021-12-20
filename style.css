@@ -1,0 +1,61 @@
+body {
+    text-align: center;
+    align-content: center;
+}
+
+#energy {
+    text-align: center;
+}
+h1, h2 {
+    color: blue;
+}
+
+p {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: cornflowerblue;
+}
+
+li {
+    list-style: none;
+}
+
+section {
+    display: flex;
+    flex-wrap: wrap;
+    color: cornflowerblue;
+    align-content: space-between;
+   
+    
+
+}
+
+.sources {
+    width: 280px;
+    height: 200px;
+    border: 1px solid blue;
+    box-sizing: border-box;
+    padding-left: 12px;
+    margin-left: 12px;
+    margin-top: 100px;
+    margin-bottom: 10px;
+    object-fit: contain;
+    background-color: black;
+    
+    
+
+}
+
+.non_renewable {
+    width: 280px;
+    height: 200px;
+    border: 1px solid blue;
+    box-sizing: border-box;
+    object-fit: contain;
+    padding-left: 12px;
+    margin-left: 120px;
+    margin-top: 100px;
+    margin-bottom: 10px;
+    background-color: black;
+
+}
